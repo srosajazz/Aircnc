@@ -14,10 +14,5 @@ FullStack  React App with Socket IO - Http - Mongodb - Axios
    
    
    
-   <img src="https://sergior.s3.amazonaws.com/fullstack+shoe/front+%26+mobile-img.png" height = "600" width = "500" />
-   
-   
-   
-    
-   <img src="https://sergior.s3.amazonaws.com/fullstack+shoe/ReservationMongodb-results.png" height = "600" width = "1200" />
+  
 
